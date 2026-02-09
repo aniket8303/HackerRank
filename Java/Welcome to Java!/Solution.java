@@ -1,7 +1,6 @@
 // Problem: Welcome to Java!
 // Platform: HackerRank
 // Difficulty: Easy
-// Date: 09-02-2026
 // Link: https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true
 
 import java.io.*;
