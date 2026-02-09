@@ -1,3 +1,8 @@
+// Problem:  Java Stdin and Stdout I
+// Platform: HackerRank
+// Difficulty: Easy
+// Link: https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem?isFullScreen=true
+
 import java.io.*;
 import java.util.*;
 
