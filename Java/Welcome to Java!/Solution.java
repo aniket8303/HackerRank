@@ -3,7 +3,7 @@
 // Difficulty: Easy
 // Link: https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true
 
-import java.io.*;
+import java.io.*;    
 import java.util.*;
 
 public class Solution {
